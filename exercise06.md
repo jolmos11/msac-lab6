@@ -34,9 +34,14 @@
 
         git status
 
-10. Which of the steps could be omitted?
+10. Which of the steps could be omitted? 
+
+        adding file to index. You can just commit and upload the file. 
 
 11. Why might it be a bad idea to omit them?
+
+        You will want to check for any errors in the directory before you commit..
+        
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 
