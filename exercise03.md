@@ -13,7 +13,7 @@
         git config --global user.email "john.doe@somewebsite.com"
 
 4. Why did we use the `--global` flag?  (What does that do?)
-
+ set the file configuration type to global. It sets it to configure on the hib instead of local.
 
 5. Check your git config to show the changes you have made
 
