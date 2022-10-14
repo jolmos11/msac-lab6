@@ -12,7 +12,7 @@
 
         git diff
 
-6. Does the following command return anything?
+6. Does the following command return anything? - No
 
         git diff --staged
 
@@ -22,14 +22,16 @@
 
 8. What do these commands show?
 
-        git diff
+        git diff 
         git diff --staged
+        
+they show what text was deleted and added to the txt files
 
 9. Add the other changed file to the index
 
         git commit add <other changed file>
 
-10. What do these commands show?
+10. What do these commands show? - they show was was removed from my vegetable.txt file
 
         git diff
         git diff --staged
@@ -40,7 +42,7 @@
 
 13. Create a new file named `clothing.txt`
 
-14. Does the new untracked file show up in git diff?
+14. Does the new untracked file show up in git diff? - No
 
         git diff
 
