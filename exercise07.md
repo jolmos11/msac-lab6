@@ -28,11 +28,18 @@
 
 8. How can you commit just one of the changed files?
 
+git commit -m 'note' path/file.txt
+
 9. Check your `git status`
 
-10. What does red text mean in the output of `git status`?
+10. What does red text mean in the output of `git status?
+
+the file is not committed
 
 11. What does green text mean in the output of `git status`?
 
+the file has been commited
+
 12. How can you make a single file show in both red and green in the output of `git status`?
 
+By adding and commiting just one of the two files.
